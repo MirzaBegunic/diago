@@ -22,16 +22,12 @@ require (
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gobwas/ws v1.4.0 // indirect
-	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/pion/randutil v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rogpeppe/go-internal v1.13.1 // indirect
 	golang.org/x/sys v0.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gotest.tools/v3 v3.5.2 // indirect
 )
 
 replace github.com/emiago/sipgo v0.33.0 => github.com/MirzaBegunic/sipgo v0.33.1
 
-replace github.com/emiago/diago v0.18.0 => github.com/MirzaBegunic/diago v0.18.1
+replace github.com/emiago/diago v0.18.0 => github.com/MirzaBegunic/diago v0.18.2-0.20250729122111-1f44a04b46c5
