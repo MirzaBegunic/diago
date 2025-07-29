@@ -1,4 +1,4 @@
-module github.com/emiago/diago
+module github.com/MirzaBegunic/diago
 
 go 1.23.0
 
@@ -30,3 +30,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.5.2 // indirect
 )
+
+replace github.com/emiago/sipgo v0.33.0 => github.com/MirzaBegunic/sipgo v0.33.1
+
+replace github.com/emiago/diago v0.18.0 => github.com/MirzaBegunic/diago v0.18.1
