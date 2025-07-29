@@ -1,8 +1,7 @@
-github.com/MirzaBegunic/diago v0.18.1 h1:z4t1B5A6Nl9IXmHGgyapMMfW0EvuxLFiIqViJhJQBFA=
-github.com/MirzaBegunic/diago v0.18.1/go.mod h1:v1oB/P9t4Pdy90Lm/af2Ej3lmVO9fQ3T0WmrgF0O5sY=
+github.com/MirzaBegunic/diago v0.18.2-0.20250729122111-1f44a04b46c5 h1:3e2WNm4l9NlkqIBeQUutJ+QkelMaZmltiOvVD3pgxMc=
+github.com/MirzaBegunic/diago v0.18.2-0.20250729122111-1f44a04b46c5/go.mod h1:YQI5mJgBgiM7rMXqbw4WabNYFyM2/1i5J7UTFl6WB/g=
 github.com/MirzaBegunic/sipgo v0.33.1 h1:SPTibQhvfXVPqHvPdgNXohvULTY1ID+cae9N22VoFa0=
 github.com/MirzaBegunic/sipgo v0.33.1/go.mod h1:PYRwWqwQT32Iie4GdSVvcOwlMNsdSZxKHQwo1Bt/VRM=
-github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/emiago/sipgo v1.0.0-alpha-2 h1:aQf7mwUbfJmiAejLIp1xXe/6mhCMRs8n13QTteR2PWI=
