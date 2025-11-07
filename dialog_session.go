@@ -32,6 +32,7 @@ func dialogRefer(ctx context.Context, d DialogSession, recipient sip.Uri, referT
 	}
 
 	req := sip.NewRequest(sip.REFER, recipient)
+	req.SetBody(nil)
 	// Invite request tags must be preserved but switched
 	req.AppendHeader(sip.NewHeader("Refer-To", referTo.String()))
 
