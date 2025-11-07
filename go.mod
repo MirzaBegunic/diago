@@ -36,6 +36,6 @@ require (
 	gotest.tools/v3 v3.5.2 // indirect
 )
 
-replace github.com/emiago/sipgo v1.0.0-beta-1 => github.com/MirzaBegunic/sipgo v1.0.0-beta-1-1
+replace github.com/emiago/sipgo v1.0.0-beta-1 => github.com/MirzaBegunic/sipgo v1.0.0-beta-1-2
 
 replace github.com/emiago/diago v0.20.0 => github.com/MirzaBegunic/diago v0.21.0-1
